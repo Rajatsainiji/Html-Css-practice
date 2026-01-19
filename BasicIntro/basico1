@@ -1,0 +1,55 @@
+-> What is HTML?
+================
+HTML stands for Hyper Text Markup Language for creating Web pages.
+
+-> HTML Documents
+==================
+All HTML documents must start with a document type declaration: <!DOCTYPE html>.
+The HTML document itself begins with <html> and ends with </html>.
+The visible part of the HTML document is between <body> and </body>.
+
+-> HTML Headings
+================
+HTML headings are defined with the <h1> to <h6> tags.
+<h1> defines the most important heading. <h6> defines the least important heading
+
+-> HTML Paragraphs
+==================
+HTML paragraphs are defined with the <p> tag
+
+-> HTML Links
+==============
+HTML links are defined with the <a> tag:
+
+-> The HTML Style Attribute
+===========================
+The HTML style attribute is used to add styles to an element, such as color, font, size, and more.
+
+-> HTML Formatting Elements
+===========================
+Formatting elements were designed to display special types of text:
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
+
+-> HTML Colors
+================
+HTML colors are specified with predefined color names, or with RGB, HEX, HSL, RGBA, or HSLA values.
+
+-> HTML Links
+===============
+Links are found in nearly all web pages. Links allow users to click their way from page to page.
+
+.HTML Links - Hyperlinks:-
+You can click on a link and jump to another document
+
+.Absolute URLs vs. Relative URLs:-
+Both examples above are using an absolute URL (a full web address) in the href attribute.
+A local link (a link to a page within the same website) is specified with a relative URL (without the "https://www" part):
