@@ -48,8 +48,28 @@ HTML colors are specified with predefined color names, or with RGB, HEX, HSL, RG
 Links are found in nearly all web pages. Links allow users to click their way from page to page.
 
 .HTML Links - Hyperlinks:-
+==========================
 You can click on a link and jump to another document
 
 .Absolute URLs vs. Relative URLs:-
+===================================
 Both examples above are using an absolute URL (a full web address) in the href attribute.
 A local link (a link to a page within the same website) is specified with a relative URL (without the "https://www" part):
+
+HTML Images:-
+===============
+Images can improve the design and the appearance of a web page.
+
+HTML Image Maps:-
+==================
+With HTML image maps, you can create clickable areas on an image.
+The HTML <map> tag defines an image map. An image map is an image with clickable areas. The areas are defined with one or more <area> tags.
+
+HTML Background Images:-
+========================
+A background image can be specified for almost any HTML element.
+To add a background image on an HTML element, use the HTML style attribute and the CSS background-image property:
+
+HTML Tables:-
+==============
+HTML tables allow web developers to arrange data into rows and columns.
